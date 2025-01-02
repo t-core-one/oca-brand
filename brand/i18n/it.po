@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 14.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-10-24 09:06+0000\n"
+"PO-Revision-Date: 2025-01-02 19:06+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -485,7 +485,7 @@ msgstr "Ha entrate non riconciliate"
 #. module: brand
 #: model:ir.model.fields,field_description:brand.field_res_brand__hide_peppol_fields
 msgid "Hide Peppol Fields"
-msgstr ""
+msgstr "Nascondi campi Peppol"
 
 #. module: brand
 #: model:ir.model.fields,field_description:brand.field_res_brand__id
@@ -583,7 +583,7 @@ msgstr "Fatture"
 #. module: brand
 #: model:ir.model.fields,field_description:brand.field_res_brand__is_coa_installed
 msgid "Is Coa Installed"
-msgstr ""
+msgstr "Coa è installato"
 
 #. module: brand
 #: model:ir.model.fields,field_description:brand.field_res_brand__message_is_follower
