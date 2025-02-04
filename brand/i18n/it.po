@@ -55,9 +55,9 @@ msgid ""
 "are company-specific.\" groups=\"base.group_multi_company\" role=\"img\"/>"
 msgstr ""
 "<span class=\"o_form_label\">Brand</span>\n"
-"                                <span class=\"fa fa-lg fa-building-o\" title="
-"\"I valori impostati qui sono specifici per azienda.\" aria-label=\"I valori "
-"impostati qui sono specifici per azienda.\" groups=\"base."
+"                                <span class=\"fa fa-lg fa-building-o\" "
+"title=\"I valori impostati qui sono specifici per azienda.\" aria-label=\"I "
+"valori impostati qui sono specifici per azienda.\" groups=\"base."
 "group_multi_company\" role=\"img\"/>"
 
 #. module: brand
@@ -910,6 +910,11 @@ msgstr ""
 #: model:ir.model.fields,field_description:brand.field_res_brand__self
 msgid "Self"
 msgstr "Se stesso"
+
+#. module: brand
+#: model:ir.model.fields,help:brand.field_res_brand__use_partner_credit_limit
+msgid "Set a value greater than 0.0 to activate a credit limit check"
+msgstr ""
 
 #. module: brand
 #: model:ir.model.fields,field_description:brand.field_res_brand__partner_share
